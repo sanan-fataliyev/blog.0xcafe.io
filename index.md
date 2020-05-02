@@ -1,6 +1,8 @@
 # blog.0xcafe.io
 blog site behind blog.0xcafe.io
 
+bizim hərflər: üöğıəşç ÖĞÇIŞMÜİ
+
 an example `inline` code and
 ```python
 import random
